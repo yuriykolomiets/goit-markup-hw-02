@@ -1,0 +1,134 @@
+body {
+    background-color: #F5F4FA;
+    color: #212121
+}
+ul {
+    list-style: none;
+}
+h3 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+p {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+}
+.web {
+    color: #2196F3
+}
+.logo {
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.2;
+    text-decoration: none;
+    color: #212121;
+    letter-spacing: 0.03em;
+}
+.logo:hover , 
+.logo:focus {
+    text-decoration: underline;
+    color: #2196F3
+}
+.first-nav {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.15;
+    text-decoration: none;
+    color: #212121;
+    letter-spacing: 0.02em;
+    
+}
+.first-nav:hover , 
+.first-nav:focus {
+    text-decoration: underline;
+    color: #2196F3
+}
+.hero {
+    background-color: #2F303A;
+    color: #FFFFFF;
+}
+.hero-title {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+}
+.hero-button {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+.benefits {
+    background-color: #FFFFFF;
+}
+.activity {
+    background-color: #FFFFFF;
+}
+.foot {
+    background-color: #2F303A;
+    color: #FFFFFF;
+    
+}
+.logo-second {
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.2;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.logo-second:hover,
+.logo-second:focus {
+    
+    color: #2196F3
+}
+   
+.mail {
+    color:rgba(255, 255, 255, 0.6);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+  
+    letter-spacing: 0.03em;
+}
+.tel {
+    color:rgba(255, 255, 255, 0.6);
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+}
+
+.button { 
+    
+    color: #212121;
+    background-color: #F5F4FA;
+
+}
+.button:focus,
+.button:hover {
+    text-decoration: underline;
+    color: #FFFFFF;
+    background-color: #2196F3 ;
+}

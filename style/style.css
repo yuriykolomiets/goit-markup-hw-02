@@ -66,7 +66,7 @@ letter-spacing: 0.06em;
 text-transform: uppercase;
 }
 .hero-button {
-    font-family: 'inherit';
+    font-family: inherit;
 font-weight: 700;
 font-size: 16px;
 line-height: 1.9;
@@ -151,14 +151,14 @@ color: #FFFFFF;
     color: #2196F3
 }
 .address {
-    font-family: 'Roboto';
+    font-style: normal;
 font-weight: 400;
 font-size: 14px;
 line-height: 1.7;
 letter-spacing: 0.03em;
 }
 .mail {
-    color:#757575;
+    color: rgba(255, 255, 255, 0.6);
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
@@ -166,7 +166,7 @@ letter-spacing: 0.03em;
     text-decoration: none;
 }
 .tel {
-    color: #757575;
+   color: rgba(255, 255, 255, 0.6);
 font-weight: 400;
 font-size: 14px;
 line-height: 1.7;
@@ -175,7 +175,7 @@ text-decoration: none;
 }
 
 .button { 
-    font-family: 'inherit';
+    font-family: inherit;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.62;
